@@ -1,0 +1,9 @@
+name = "Obfuscate"
+uuid = "f945562e-9bc0-11e8-16ea-038943851fd3"
+authors = ["Per Rutquist <per.rutquist@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+InteractiveUtils = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
